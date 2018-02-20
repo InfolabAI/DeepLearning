@@ -1,7 +1,7 @@
 # DeepLearning
 Presentation files for study about "Deep Learning" written by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
-> Here is a supplementary data for Deep Learning book!
+> Here is a supplementary data for Deep Learning book!!!
 
 ## Coverage
 Chapter 5 ~ 20
