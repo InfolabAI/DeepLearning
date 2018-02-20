@@ -15,7 +15,7 @@ Hyun-Lim Yang | 5-2, 7-2, 10-2
 Keonwoo Noh | 7-1, 9-1, 14, 20
 Eunjeong Yi | 6, 10-1, 13, 18
 
-## The content lists of presentation file
+## The content lists of presentation files
 
 ### 5-1. Machine Learning Basics
 - Learning algorithms
