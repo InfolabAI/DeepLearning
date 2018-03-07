@@ -6,9 +6,6 @@ Presentation files for study about "Deep Learning" written by Ian Goodfellow, Yo
 ## Laboratory
 InfoLab of Daegu Gyeongbuk Institute of Science & Technology (DGIST) in KOREA
 
-## Professor
-Min-Soo Kim
-
 ## Coverage
 Chapter 5 ~ 20
 
