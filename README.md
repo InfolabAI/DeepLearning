@@ -162,6 +162,6 @@ Name | Chapters
 > - Restricted Boltzmann Machines
 > - Deep Belief Networks
 
-<br/>
------
+
+***
 License: [CC-BY](https://creativecommons.org/licenses/by/3.0/)
