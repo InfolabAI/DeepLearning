@@ -1,10 +1,12 @@
-# DeepLearning
-Presentation files for study about "Deep Learning" written by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+Lecture Slides for Deeplearning book
+===================================
+This repo contains lecture slides for [Deeplearning book](http://www.deeplearningbook.org/). This project is maintained by [_InfoLab_ @ DGIST](https://infolab.dgist.ac.kr/) (_Large-scale Deep Learning Team_), and have been made for _InfoSeminar_. It is freely available only if the source is marked.
 
-> Here is a supplementary data for Deep Learning book!!!
+> The slides contain additional materials which have not mentioned in [the book](http://www.deeplearningbook.org/).
 
-## Laboratory
-InfoLab of Daegu Gyeongbuk Institute of Science & Technology (DGIST) in KOREA
+
+## Maintained by
+**[_InfoLab_](https://infolab.dgist.ac.kr/)** @ DGIST(Daegu Gyeongbuk Institute of Science & Technology)
 
 ## Coverage
 Chapter 5 ~ 20
