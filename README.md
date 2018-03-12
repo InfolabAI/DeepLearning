@@ -10,8 +10,6 @@ This repo contains lecture slides for [Deeplearning book](http://www.deeplearnin
 
 ## Maintained by
 **[_InfoLab_](https://infolab.dgist.ac.kr/)** @ DGIST(Daegu Gyeongbuk Institute of Science & Technology)<br/>
-(Advisor: [Prof. Min-Soo Kim](https://infolab.dgist.ac.kr/~mskim/) )
-
 
 ## Coverage
 This repo covers Chapter 5 to 20 in the book.
